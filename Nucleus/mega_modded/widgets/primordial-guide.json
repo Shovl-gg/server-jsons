@@ -1,0 +1,126 @@
+{
+    "Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+    "Props":
+    {
+        "Fill": 1
+    },
+    "UIItems": [
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 1. Start gathering resources so you can craft a Primordial Spoiler, Primordial Poop, Primordial Wood Bow and Void Stone Tranqs within your inventory.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 2. Tame yourself a Travel Dino and a Cargo Dino, so you can travel fast and have a dino carry all the things for you.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 3. Gather enough resources together to build yourself a Primordial Workbench.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 4. Gather the resources needed to craft yourself Void Kibble within the Primordial Workbench.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 5. Once you have Void Kibble made, go out and tame some Void Dinos. (You want at least a Void Ankylo or Void Doed so you can get Void Ore with those dinos. Other Void Dinos will also gather the modded Flowers & Mushrooms & Seeds.)",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 6. Once you have your Void Harvesting Dinos, start gathering up resources with your Void Dino while also preparing everything needed to craft Beta Kibble.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 8. Gather up enough resources to craft what is needed for either Void Metal Tranqs or Void Tranq Darts. (They do better pierce damage for the torpor. Must craft the Primordial Metal Bow or the Primordial Rifle to use.)",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 9. Go tame yourself the Beta Dino of your choosing and make sure to get a breeding pair of the highest levels you can find on your server.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 10. Go hunting for other Beta Dinos with your new OP Beta and gather up the Beta Saddle BPs all Beta Dinos have a chance of dropping once killed.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 11. Gather all the resources needed to craft yourself an OP Beta Saddle BP you found for your specific dino or dinos. (This is needed if you want to survive whats coming next or you can just breed up an Army and use Primitive Saddles for whats next.)",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 12. Gather the resources needed to craft the Primordial Shrine & to then Summon the Primordial Beta Boss. (These dinos are big and hit hard, so don't build this near your base if you dont want things to get broken.)",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 13. Summon and Defeat the Primordial Beta Boss so you can unlock all the engrams for the Gamma Tier.",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        },
+        {
+            "Widget": "/Ark-Nucleus/SharedContent/Widgets/Views/DU_View_SimpleText_v1.DU_View_SimpleText_v1_C",
+            "Props":
+            {
+                "Text": "Step 14. Now repeat everything to some degree and start your progression through the rest of the content. Good Luck and Have Fun!",
+                "FontSize": 14,
+                "Padding": [ 5, 5, 5, 5 ]
+            }
+        }
+    ]
+}
