@@ -12,7 +12,7 @@
 					{
 						"Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Url_v1.DU_Panel_Url_v1_C",
 						"UIConfigRequest": {
-							"Url": "https://drive.google.com/uc?id=10J_7kql8E6IX0mHtDehbDy9sp_CdZ-LL",
+							"Url": "https://github.com/Shovl-gg/server-jsons/blob/main/Nucleus/mega_modded/mega-modded-url-widget.json",
 							"KeepCacheForXMinutes": 5,
 							"UUID": "Nucleus/TestDynamicUIConfig"
 						},
