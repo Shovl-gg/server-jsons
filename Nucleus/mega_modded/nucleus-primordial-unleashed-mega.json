@@ -1252,6 +1252,31 @@
 						}
 					]
 				}
+				{
+					"Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_VerticalScrollBox_v1.DU_Panel_VerticalScrollBox_v1_C",
+					"Props":
+					{
+						"Title": "Primordial Unleashed Guide",
+						"Note": "A step-by-step guide to help you progress through the Primordial Unleashed mod content.",
+						"Fill": 1
+					},
+					"UIItems": [
+						{
+							"Widget": "/Ark-Nucleus/SharedContent/Widgets/Panels/DU_Panel_Url_v1.DU_Panel_Url_v1_C",
+							"UIConfigRequest":
+							{
+								"Url": "https://github.com/Shovl-gg/server-jsons/blob/main/Nucleus/mega_modded/widgets/primordial-guide.json",
+								"KeepCacheForXMinutes": 5,
+								"UUID": "Nucleus/TestDynamicUIConfig"
+							},
+							"Props":
+							{
+								"Justification": "Center",
+								"Padding": [ 0, 0, 0, 20 ]
+							}
+						}
+					]
+				}
 			]
 		}
 	]
